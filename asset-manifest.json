@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-api/static/css/main.13949151.css",
+    "main.js": "/react-api/static/js/main.eea0d9b1.js",
+    "static/media/cloud3.png": "/react-api/static/media/cloud3.0897eb41b4a42862f23d.png",
+    "static/media/sakura.png": "/react-api/static/media/sakura.9048db9e5a6c8612e13f.png",
+    "index.html": "/react-api/index.html",
+    "main.13949151.css.map": "/react-api/static/css/main.13949151.css.map",
+    "main.eea0d9b1.js.map": "/react-api/static/js/main.eea0d9b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13949151.css",
+    "static/js/main.eea0d9b1.js"
+  ]
+}
