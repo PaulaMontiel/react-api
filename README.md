@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     
 ## Website preview
 
-    <img src="/src/imgs/screen.png" alt="screen "/>
+    <img src="https://cdn.rawgit.com/PaulaMontiel/react-api/main/src/imgs/screen.png" alt="screen"/>
 
 ## Available Scripts
 
