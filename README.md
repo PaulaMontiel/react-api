@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Links of interest
+
+    * Explaining video of the project url: https://vimeo.com/755314670
+    * Web URL: https://paulamontiel.github.io/react-api/
+    
+## Website preview
+
+    <img src="/src/imgs/screen.png" alt="screen "/>
+
 ## Available Scripts
 
 In the project directory, you can run:
